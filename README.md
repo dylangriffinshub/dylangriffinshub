@@ -11,7 +11,6 @@ I build production-grade AI applications and scalable SaaS backends — turning 
 - 🛠️ **Ask me about** RAG pipelines, vector databases, AI agent design, backend architecture, and API design
 - 🌱 **Currently exploring** agentic workflows, eval-driven AI development, and multi-model orchestration
 - 👯 **Open to collaborating on** ambitious AI products and SaaS platforms
-- 📫 **Reach me** on [LinkedIn](https://linkedin.com/in/your-handle) · your.email@example.com
 
 ---
 
