@@ -13,7 +13,7 @@ I build production-grade AI applications and scalable SaaS backends — turning 
 - 👯 **Open to collaborating on** ambitious AI products and SaaS platforms
 
 ---
-
+ 
 ### 🧰 Tech Stack
 
 **AI / LLM**
@@ -64,4 +64,4 @@ I treat every project as a production system, not a prototype:
 
 ---
 
-⚡ **Fun fact:** I think the hardest part of AI engineering isn't the model — it's everything around it.
+⚡ **Fun fact:** I think the hardest part of AI engineering isn't the model - it's everything around it
