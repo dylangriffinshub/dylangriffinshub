@@ -1,6 +1,6 @@
 # Hi, I'm Dylan 👋
 
-### Senior Software Engineer & AI Architect
+### Senior Software Engineer & AI Architect 
 
 I build production-grade AI applications and scalable SaaS backends — turning AI from prototype to product. 
 
