@@ -45,6 +45,13 @@ I build production-grade AI applications and scalable SaaS backends — turning 
 
 ---
 
+### 🏆 GitHub Achievements
+
+![Pull Shark](https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png)
+![Quickdraw](https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png)
+
+---
+
 ### 📊 GitHub Stats
 
 ![Dylan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dylangriffinshub&show_icons=true&theme=tokyonight&hide_border=true)
