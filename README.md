@@ -2,12 +2,13 @@
 
 ### Senior Software Engineer & AI Architect 
 
-I build production-grade AI applications and scalable SaaS backends — turning AI from prototype to product. 
+I build production-grade AI applications and scalable SaaS backends, turning AI from prototype to product.
 
 ---
 
+- 💎 **Senior-level experience in** Ruby on Rails, especially multi-tenant, chapter/branch-based platforms for mission-driven organizations
 - 🔭 **Currently working on** AI agents, RAG systems, and LLM-powered SaaS platforms
-- 🧠 **I specialize in** taking AI from prototype to production — clean architecture, cost efficiency, and systems that scale
+- 🧠 **I specialize in** taking AI from prototype to production: clean architecture, cost efficiency, and systems that scale
 - 🛠️ **Ask me about** RAG pipelines, vector databases, AI agent design, backend architecture, and API design
 - 🌱 **Currently exploring** agentic workflows, eval-driven AI development, and multi-model orchestration
 - 👯 **Open to collaborating on** ambitious AI products and SaaS platforms
@@ -42,6 +43,27 @@ I build production-grade AI applications and scalable SaaS backends — turning 
 
 **Payments**
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+
+**Ruby**
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![Rails](https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
+
+---
+
+### 💎 Ruby on Rails Experience
+
+Senior-level Rails background, with a focus on multi-tenant, chapter/branch-based platforms for mission-driven and volunteer-driven organizations:
+
+- **Distributed chapter/organization portals** — built and maintained Rails applications serving national nonprofits with independently operating local chapters: volunteer profile management, service-hour logging, rewards/recognition systems, and admin dashboards for national staff to oversee activity across chapters
+- **Volunteer and community management systems** — recruitment, onboarding, scheduling, and hour tracking for volunteer-driven organizations, with attention to keeping the experience simple for non-technical or first-time users
+- **Rapid-turnaround feature work** — jumping into existing Rails codebases (not just greenfield builds), tracing legacy patterns, fixing bugs, and shipping small-to-medium features quickly without destabilizing production
+- **UX-conscious backend work** — backend decisions made with attention to how they surface in the actual user experience (form flows, empty states, mobile usability), especially useful for lean teams without a dedicated designer
+- **AI-assisted Rails workflows** — using Claude Code day-to-day for debugging, refactors, and test writing on Rails codebases
+
+Recent open-source Rails contributions:
+- [rubyforgood/casa#7069](https://github.com/rubyforgood/casa/pull/7069) — fixed email-edit flow incorrectly relying on Devise's reconfirmable pattern
+- [rubyforgood/casa#7070](https://github.com/rubyforgood/casa/pull/7070) — fixed a silent no-op in a strong-params builder that let restricted fields leak into admin creation
+- [rubyforgood/human-essentials#5634](https://github.com/rubyforgood/human-essentials/pull/5634) — fixed a 500 error on open-ended date range input
 
 ---
 
